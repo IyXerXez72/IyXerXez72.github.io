@@ -1,5 +1,4 @@
 {"0": [
-      {"code":"su","name":"Dede Bahasa","nativeName":"Dede Bahasa"},
       {"code":"ab","name":"Abkhaz","nativeName":"аҧсуа"},
       {"code":"aa","name":"Afar","nativeName":"Afaraf"},
       {"code":"af","name":"Afrikaans","nativeName":"Afrikaans"},
@@ -172,6 +171,7 @@
       {"code":"ur","name":"Urdu","nativeName":"اردو"},
       {"code":"uz","name":"Uzbek","nativeName":"zbek, Ўзбек, أۇزبېك‎"},
       {"code":"ve","name":"Venda","nativeName":"Tshivenḓa"},
+      {"code":"su","name":"Viet Dede Bahasa","nativeName":"Dede bahasa"},
       {"code":"vi","name":"Vietnamese","nativeName":"Tiếng Việt"},
       {"code":"vo","name":"Volapük","nativeName":"Volapük"},
       {"code":"wa","name":"Walloon","nativeName":"Walon"},
